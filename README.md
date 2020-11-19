@@ -1,2 +1,2 @@
 # Hello-World
-Am Mihlali Dzingwa a whole hearted person
+Am Mihlali Dzingwa a programmer
