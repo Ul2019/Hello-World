@@ -1,2 +1,2 @@
 # Hello-World
-Am Mihlali Dzingwa a programmer
+Am Mihlali Dzingwa a software developer.
